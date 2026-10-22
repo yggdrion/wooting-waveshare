@@ -1,0 +1,8 @@
+# optional preview meshes from the official Wooting / Waveshare STEP files (not redistributed)
+wooting80he_case_preview.stl
+waveshare_11.9_hdmi_lcd.stl
+*.stp
+*.step
+# OpenSCAD / OS junk
+*.bak
+.DS_Store
